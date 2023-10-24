@@ -1,2 +1,2 @@
 # rsvp_app
-This app helps you to orgonize your event
+This app helps you to organize your event
